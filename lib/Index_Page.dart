@@ -20,7 +20,7 @@ class _Index_PageState extends State<Index_Page> {
         // color: Color.fromRGBO(255, 255, 255, 1),
       ),
       title: Text(
-        '热点资讯',
+        '热点资讯',   
         // style: TextStyle(
         //   color: Color.fromRGBO(255, 255, 255, 1),
         // ),
